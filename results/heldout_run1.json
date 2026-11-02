@@ -1,0 +1,31 @@
+{
+ "split": "heldout",
+ "problems": {
+  "DOSE": "201/201",
+  "EXPIRED": "552/552",
+  "NOT_YET": "197/197",
+  "NO_AUTH": "740/740",
+  "PRODUCT": "138/138",
+  "SITE": "404/404",
+  "UNITS": "90/90",
+  "VISITS": "181/181"
+ },
+ "problems_total": "2503/2503",
+ "tracker_baseline": "1489/2503",
+ "tracker_by_kind": {
+  "DOSE": "0/201",
+  "EXPIRED": "552/552",
+  "NOT_YET": "197/197",
+  "NO_AUTH": "740/740",
+  "PRODUCT": "0/138",
+  "SITE": "0/404",
+  "UNITS": "0/90",
+  "VISITS": "0/181"
+ },
+ "held_for_other_reason": 0,
+ "clean_visits": 14169,
+ "clean_held": 0,
+ "clean_held_tracker": 0,
+ "renewal_flagged_before_lapse": "185/185",
+ "examples": []
+}

@@ -50,7 +50,7 @@ class Guard(unittest.TestCase):
 
     def test_held_visit_does_not_consume_units(self):
         vs = [visit("v1", date(2026, 11, 10), site="home"), visit("v2", date(2026, 12, 10))]
-        rs = guard(vs, [auth(units=35, visits=1)])
+        rs = guard(vs, [auth(units=40, visits=1)])
         self.assertEqual([r.action for r in rs], ["HOLD", "INFUSE"])
 
 

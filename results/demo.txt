@@ -1,0 +1,14 @@
+chair-1   Maria R.  18 Nov  J1745 infliximab (Remicade)         HOLD   units 0    tracker: ok
+            PRODUCT: auth PA-1041 covers Q5103 infliximab-dyyb (Inflectra), visit is J1745 infliximab (Remicade)
+chair-2   James T.  18 Nov  Q5103 infliximab-dyyb (Inflectra)   HOLD   units 80   tracker: ok
+            DOSE: ordered 10.0 mg/kg, auth PA-1077 approves 5.0 mg/kg
+chair-3   Aiko N.   18 Nov  J3380 vedolizumab (Entyvio)         RENEW  units 300  tracker: ok
+            RENEW: next infusion 13 Jan is after PA-1102 ends 30 Nov; submit renewal by 30 Dec
+chair-4   Dev P.    18 Nov  Q5121 infliximab-axxq (Avsola)      HOLD   units 50   tracker: ok
+            UNITS: this visit needs 50 units (480 mg + 20 mg waste); 40 of 40 left on PA-1110
+chair-5   Lena K.   18 Nov  J2350 ocrelizumab (Ocrevus)         HOLD   units 600  tracker: ok
+            SITE: auth PA-1123 is for office, visit is at hospital_outpatient
+chair-6   Omar S.   18 Nov  J3262 tocilizumab (Actemra)         HOLD   units 704  tracker: ok
+            DOSE: ordered 704 mg, auth PA-1131 approves 640 mg
+chair-3b  Aiko N.   13 Jan  J3380 vedolizumab (Entyvio)         HOLD   units 0    tracker: flag
+            EXPIRED: auth PA-1102 ended 30 Nov 2026

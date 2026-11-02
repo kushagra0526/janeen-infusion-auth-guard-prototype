@@ -1,0 +1,31 @@
+{
+ "split": "dev",
+ "problems": {
+  "DOSE": "104/104",
+  "EXPIRED": "295/295",
+  "NOT_YET": "107/107",
+  "NO_AUTH": "349/349",
+  "PRODUCT": "91/91",
+  "SITE": "220/220",
+  "UNITS": "46/46",
+  "VISITS": "72/72"
+ },
+ "problems_total": "1284/1284",
+ "tracker_baseline": "751/1284",
+ "tracker_by_kind": {
+  "DOSE": "0/104",
+  "EXPIRED": "295/295",
+  "NOT_YET": "107/107",
+  "NO_AUTH": "349/349",
+  "PRODUCT": "0/91",
+  "SITE": "0/220",
+  "UNITS": "0/46",
+  "VISITS": "0/72"
+ },
+ "held_for_other_reason": 0,
+ "clean_visits": 4417,
+ "clean_held": 0,
+ "clean_held_tracker": 0,
+ "renewal_flagged_before_lapse": "112/112",
+ "examples": []
+}
